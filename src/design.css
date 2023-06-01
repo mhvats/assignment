@@ -1,0 +1,14 @@
+.design-container {
+  background: url(./component/img/Rectangle\ 15.png) no-repeat;
+  /* background-attachment:scroll; */
+  width: 50%;
+  /* border: 1px solid rebeccapurple; */
+}
+.white{
+    color: white;
+}
+.bottom-web{
+    /* border: 1px solid red; */
+    /* width:5px; */
+    height: 10px;
+}
